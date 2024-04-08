@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/121337/screenshots/1024835/loading2.gif)](https://duxdudu.io)
+[![MasterHead](https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif)](https://duxdudu.io)
 
 <h1 align="center">Hi 👋, I'm i.dux.codes</h1>
 <h3 align="center">A passionate frontend developer from kigali-Rwanda</h3>
